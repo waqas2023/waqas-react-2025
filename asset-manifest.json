@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/waqas-react-2025/static/css/main.dc4d6ff2.css",
-    "main.js": "/waqas-react-2025/static/js/main.130faaf7.js",
+    "main.js": "/waqas-react-2025/static/js/main.f85bf336.js",
     "static/js/453.7273109d.chunk.js": "/waqas-react-2025/static/js/453.7273109d.chunk.js",
     "index.html": "/waqas-react-2025/index.html",
     "main.dc4d6ff2.css.map": "/waqas-react-2025/static/css/main.dc4d6ff2.css.map",
-    "main.130faaf7.js.map": "/waqas-react-2025/static/js/main.130faaf7.js.map",
+    "main.f85bf336.js.map": "/waqas-react-2025/static/js/main.f85bf336.js.map",
     "453.7273109d.chunk.js.map": "/waqas-react-2025/static/js/453.7273109d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.130faaf7.js"
+    "static/js/main.f85bf336.js"
   ]
 }
